@@ -1,7 +1,7 @@
 ---
 services: cognitive-services,custom-vision
 platforms: java, Android
-author: Temilola Onaneye, Amin
+author: Temilola Onaneye, Amin Bagheri, Andrew
 ---
 
 # PLASMO-D (A simple image classification mobile application for detecting Malaria cells)
