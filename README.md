@@ -1,13 +1,16 @@
 ---
 services: cognitive-services,custom-vision
 platforms: java, Android
-author: aminbagheri
+author: Temilola Onaneye
 ---
 
-# Sample Android application for TensorFlow models exported from Custom Vision Service
-This sample application demonstrates how to take a model exported from the [Custom Vision Service](https://www.customvision.ai) in the TensorFlow format and add it to an application for real-time image classification. 
+# PLASMO-D (A simple image classification mobile application for detecting Malaria cells)
+This repository contains steps on how to build a mobile application for Identifying Malaria Cells. This is after the the image classification model has been trained on Microsoft Azure Custom Vision
 
 ## Getting Started
+Download the dataset https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria/download
+Train you model on customvision.ai
+Then follow the remaining steps in building your android application.
 
 ### Prerequisites
 - [Android Studio (latest)](https://developer.android.com/studio/index.html)
