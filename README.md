@@ -9,6 +9,7 @@ This repository contains steps on how to build a mobile application for Identify
 
 ## Getting Started
 Download the dataset https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria/download
+
 Train you model on customvision.ai
 Then follow the remaining steps in building your android application.
 
